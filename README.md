@@ -2,7 +2,7 @@
 Dataset & evaluation script for ADL 2024 homework 2
 
 ## Dataset
-[download link](https://drive.google.com/file/d/186ejZVADY16RBfVjzcMcz9bal9L3inXC/view?usp=sharing)
+[download link](https://drive.google.com/drive/folders/1vXG_upPXnPTBhN7ewgA0HS-LxQLj8Zl1?usp=sharing)
 
 ## Installation
 ```
