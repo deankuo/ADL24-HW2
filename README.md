@@ -1,4 +1,4 @@
-# ADL23-HW2
+# ADL24-HW2
 Dataset & evaluation script for ADL 2024 homework 2
 
 ## Dataset
