@@ -2,8 +2,8 @@
 Dataset & evaluation script for ADL 2024 homework 2
 
 ## Dataset
-[download link](https://drive.google.com/drive/folders/1vXG_upPXnPTBhN7ewgA0HS-LxQLj8Zl1?usp=sharing)  
-[backup download link](https://drive.google.com/drive/folders/1PMa25MwIVWTRhUtkWTfBFgqbqmGAxG2-?usp=sharing)
+[download link](https://drive.google.com/file/d/19UA2amUib82KYMDRn1UKbznIgUjVb-Jl/view?usp=sharing)  
+[backup download link](https://drive.google.com/file/d/1t8QSuHXz7L9nYRrAwLQ4ponSweAp2WW_/view?usp=sharing)
 ## Installation
 ```
 git clone https://github.com/deankuo/ADL24-HW2.git
